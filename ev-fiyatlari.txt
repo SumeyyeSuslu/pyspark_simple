@@ -1,0 +1,6 @@
+OdaSayisi,SalonSayisi,KacMetreKare,BalkonVar,BanyoSayisi,KacinciKat,Fiyat
+3,1,130,1,1,4,250000
+2,1,80,1,1,1,100000
+4,2,200,1,2,2,500000
+4,1,120,1,1,8,300000
+1,1,70,1,1,9,90000
